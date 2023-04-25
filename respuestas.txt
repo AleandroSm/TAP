@@ -1,0 +1,7 @@
+Windows, S, S, N, 4
+Windows, N, N, N, 4
+Linux, S, N, N, 4
+Linux, S, N, N, 4
+Linux, N, S, S, 4
+Linux, S, N, S, 6
+Windows, N, S, S, 18
