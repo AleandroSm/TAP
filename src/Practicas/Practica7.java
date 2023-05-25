@@ -16,18 +16,13 @@ import javax.swing.event.TableModelEvent;
 import javax.swing.event.TableModelListener;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author macpro2
- */
+
 public class Practica7 extends javax.swing.JFrame {
 
     Connection conn = null;
     DefaultTableModel modelo = null;
 
-    /**
-     * Creates new form Practica7
-     */
+ 
     public Practica7() {
         initComponents();
 
